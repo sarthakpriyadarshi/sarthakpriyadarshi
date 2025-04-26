@@ -55,7 +55,7 @@
    <a href="https://www.linkedin.com/in/sarthakpriyadarshi">
    <img src="https://api.iconify.design/skill-icons:linkedin.svg" alt="Sarthak Priyadarshi's Linkedin" height="35" width="35" />
    </a>&nbsp;&nbsp;
-   <a href="https://www.cyberol.codes">
+   <a href="https://www.sarthakpriyadarshi.com/">
    <img src="./assets/website.svg" alt="Sarthak Priyadarshi Website" height="35" width="35" />
    </a>&nbsp;&nbsp;
 
@@ -76,6 +76,6 @@
      </picture>
    </center>
    <hr>
-   <h3>Contact Me at: <a href="mailto:sarthak@cyberol.codes">sarthak@cyberol.codes</a></h3>
+   <h3>Contact Me at: <a href="mailto:sarthak@sarthakpriyadarshi.com">sarthak@sarthakpriyadarshi.com</a></h3>
    <hr>
 </div>
