@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://cyberol.codes">
+   <a href="https://sarthakpriyadarshi.com">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.gif" alt="About Me heading">
         <img src="./assets/banner.gif" alt="Sarthak Priyadarshi's Profile Header">
