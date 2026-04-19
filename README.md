@@ -8,7 +8,7 @@
    <hr>
    <center>
       <h3>You are visitor number:</h3>
-      <img src="https://komarev.com/ghpvc/?username=sarthakpriyadarshi&style=for-the-badge" alt="Profile views counter badge" />
+      <img src="https://komarev.com/ghpvc/?username=sarthakpriyadarshi&style=for-the-badge&color=brightgreen" alt="Profile views counter badge" />
    </center>
    <hr>
    <p align="center">
