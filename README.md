@@ -51,28 +51,22 @@
    <hr>
    <p>I am an Ethical Hacker and Full Stack Web Developer who is eager to learn and apply new technology to production level use. I am skilled in both backend and frontend but specifically. I mean I am still a student, so still learning but I love to contribute to existing open source project or maybe creating it.
    </p>
-
-   <a href="https://www.linkedin.com/in/sarthakpriyadarshi">
-   <img src="https://api.iconify.design/skill-icons:linkedin.svg" alt="Sarthak Priyadarshi's Linkedin" height="35" width="35" />
-   </a>&nbsp;&nbsp;
-   <a href="https://www.sarthakpriyadarshi.com/">
-   <img src="./assets/website.svg" alt="Sarthak Priyadarshi Website" height="35" width="35" />
-   </a>&nbsp;&nbsp;
-
+   <a href="https://www.linkedin.com/in/sarthakpriyadarshi"><img src="./assets/linkedin.svg" alt="Sarthak Priyadarshi's Linkedin" height="35" width="35" /></a>&nbsp;&nbsp;<a href="https://www.sarthakpriyadarshi.com/"><img src="./assets/website.svg" alt="Sarthak Priyadarshi Website" height="35" width="35" /></a>
+   </p>
    <hr>
    <h2>Little Stats Here and There!</h2>
    <center>
      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=sarthakpriyadarshi&theme=nightowl&hide_border=false" alt="Sarthak Priyadarshi's Tech Stack Stats">
-         <img src="https://nirzak-streak-stats.vercel.app/?user=sarthakpriyadarshi&theme=nightowl&hide_border=false" alt="Sarthak Priyadarshi's Tech Stack Stats">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sarthakpriyadarshi&theme=merko&hide_border=true" alt="Sarthak Priyadarshi's Streak Stats">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakpriyadarshi&theme=merko&hide_border=true" alt="Sarthak Priyadarshi's Streak Stats">
      </picture>
    </center>
 
    <center>
      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpriyadarshi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sarthak Priyadarshi's Streaks Stats">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpriyadarshi&theme=merko&show_icons=true&hide_border=true&layout=compact" height="194px" alt="Sarthak Priyadarshi's Streaks Stats">
          <br>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpriyadarshi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sarthak Priyadarshi's Streaks Stats">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpriyadarshi&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Sarthak Priyadarshi's Streaks Stats">
      </picture>
    </center>
    <hr>
