@@ -57,14 +57,7 @@
    <h2>Little Stats Here and There!</h2>
    <center>
      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sarthakpriyadarshi&theme=merko&hide_border=true" width="350px" alt="Sarthak Priyadarshi's Streak Stats">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakpriyadarshi&theme=merko&hide_border=true" alt="Sarthak Priyadarshi's Streak Stats">
-     </picture>
-   </center>
-
-   <center>
-     <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpriyadarshi&theme=merko&show_icons=true&hide_border=true&layout=compact" height="137.88px" alt="Sarthak Priyadarshi's Streaks Stats">
+         <source media="(prefers-color-scheme: dark)" srcset="https://www.sarthakpriyadarshi.com/github/activity" alt="Sarthak Priyadarshi's Activity + Streak Stats">
          <br>
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpriyadarshi&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Sarthak Priyadarshi's Streaks Stats">
      </picture>
