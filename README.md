@@ -1,8 +1,8 @@
 <div align="center">
    <a href="https://sarthakpriyadarshi.com">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.png" alt="About Me heading">
-        <img src="./assets/banner.gif" alt="Sarthak Priyadarshi's Profile Header">
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.sarthakpriyadarshi.com/github/profile" alt="About Me heading">
+        <img src="https://www.sarthakpriyadarshi.com/github/profile" alt="Sarthak Priyadarshi's Profile Header">
       </picture>
    </a>
    <hr>
