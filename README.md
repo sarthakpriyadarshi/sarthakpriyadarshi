@@ -59,7 +59,7 @@
      <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://www.sarthakpriyadarshi.com/github/activity" alt="Sarthak Priyadarshi's Activity + Streak Stats">
          <br>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpriyadarshi&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Sarthak Priyadarshi's Streaks Stats">
+         <img src="https://www.sarthakpriyadarshi.com/github/activity" alt="Sarthak Priyadarshi's Activity + Streak Stats">
      </picture>
    </center>
    <hr>
