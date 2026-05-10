@@ -1,8 +1,9 @@
 <div align="center">
    <a href="https://sarthakpriyadarshi.com">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.sarthakpriyadarshi.com/github/profile" alt="About Me heading">
-        <img src="https://www.sarthakpriyadarshi.com/github/profile" alt="Sarthak Priyadarshi's Profile Header">
+         <source media="(prefers-color-scheme: dark)"  srcset="./assets/profile-dark.svg">
+         <source media="(prefers-color-scheme: light)" srcset="./assets/profile.svg">
+         <img src="./assets/profile.svg" alt="Sarthak Priyadarshi — Profile Header">
       </picture>
    </a>
    <hr>
